@@ -17,7 +17,7 @@ A stunning, production-ready personal portfolio website built with **React**, **
   - Interactive modal viewer supporting **Zoom In/Out/Reset**, **Previous/Next navigation**, **ESC to close**, and **Direct PDF download**.
   - Interactive search bar and real-time category filter chips.
 - **Bento-Grid Showcase**:
-  - **About Me**: Highlights academic standing (3rd Year B.Tech CSE at SIT Nagpur, CGPA 7.14) alongside athletic honors (3x CBSE National representation in Kho Kho & Football, Sports Coordinator).
+  - **About Me**: Highlights academic standing (3rd Year B.Tech CSE at SIT Nagpur, CGPA 7.09) alongside athletic honors (3x CBSE National representation in Kho Kho & Football, Sports Coordinator).
   - **Technical Skills**: Grouped into Programming Languages, AI & ML, Web & Frameworks, Databases & Cloud, and DevOps & Automation.
   - **Work Experience**: Interactive vertical timeline detailing the AI Development Internship at PremitiveKey (Mumbai).
   - **Projects**: Highlight cards for Cloud Auto-Scaling ML Framework, Trustworthy RAG System, Intelligent Chatbot, and Arduino Rain Shade.

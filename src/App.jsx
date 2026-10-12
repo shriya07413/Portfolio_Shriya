@@ -17,7 +17,7 @@ export default function App() {
   const [resumeModalOpen, setResumeModalOpen] = useState(false);
 
   return (
-    <div className="relative min-h-screen text-slate-100 dark:text-slate-100 light:text-slate-800 transition-colors duration-300">
+    <div className="relative min-h-screen text-slate-900 dark:text-slate-100 transition-colors duration-300">
       {/* Background Ambient Lighting and Particles */}
       <BackgroundGlow />
 

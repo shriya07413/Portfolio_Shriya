@@ -25,7 +25,7 @@ export const portfolioData = {
 
   stats: [
     { label: "Academic Standing", value: "3rd Year", subtext: "B.Tech CSE" },
-    { label: "CGPA", value: "7.14", subtext: "SIT Nagpur" },
+    { label: "CGPA", value: "7.09", subtext: "SIT Nagpur" },
     { label: "Engineering Projects", value: "4+", subtext: "AI, RAG & Cloud" },
     { label: "Industry Credentials", value: "9+", subtext: "Red Hat, Deloitte, Forage" },
     { label: "Athletic Honors", value: "3x", subtext: "CBSE National Player" },
@@ -191,7 +191,7 @@ export const portfolioData = {
       institution: "Symbiosis Institute of Technology, Nagpur",
       period: "2024 – 2028",
       status: "Current (3rd Year)",
-      score: "CGPA: 7.14",
+      score: "CGPA: 7.09",
       highlights: [
         "Specializing in Software Systems, Artificial Intelligence, and Cloud Computing.",
         "Active member of SIT Nagpur Sports Club and collegiate Futsal Team.",
